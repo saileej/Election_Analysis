@@ -48,3 +48,4 @@ In this election, a total of 369,711 votes were cast for three different candida
 
 **Election Audit Summary**
 This script can be used for many other local elections.  Once the county names and candidate names have been changed (and the number of counties and candidates, if necessary), the same script can be used to provide a detailed breakdown of other election results.
+The script can also be modified in order to gain a more detailed view of voter behavior.  This program computed the percentage of votes for each candidate, as well as the percentage of total votes cast in each county.  However, the two metrics could be combined in order to show candidate breakdown by county.  For example, although Diana DeGette won the popular vote, another candidate (Charles Stockham or Raymon Doane) may have won a single county.
