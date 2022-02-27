@@ -27,18 +27,23 @@ In this election, a total of 369,711 votes were cast for three different candida
 ![image](https://user-images.githubusercontent.com/99574730/155901847-4711eee4-97cb-48d3-ab0a-48686bef41f5.png)
 
 1. How many votes were cast in this congressional election?
+		
 		A total of 369,711 votes were cast in this election.
 2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+		
 		Jefferson county: 10.5% of votes (38,855 votes)
 		Denver county: 82.8% of votes (306,055 votes)
 		Arapahoe county: 6.7% of votes (11,606 votes)
 3. Which county had the largest number of votes?
+		
 		Denver county had the largest county turnout (306,055 votes).  An overwhelming majority of votes were cast from Denver county. 
 4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+		
 		Charles Casper Stockham: 23.0% of votes (85,213 votes)
 		Diana DeGette: 73.8% of votes (272,892 votes)
 		Raymon Anthony Doane: 3.1% of votes (11,606 votes)
 5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+		
 		Based on the popular vote, Diana DeGette won the election with a 73.8% majority of votes.  272,892 votes were cast for Diana DeGette.
 
 **Election Audit Summary**
